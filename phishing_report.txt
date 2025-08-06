@@ -1,0 +1,43 @@
+Phishing Email Analysis Report
+==============================
+
+Email Subject: Urgent: Your Account Has Been Locked!
+Sender: security-alert@appl3-support.com
+
+1. Suspicious Sender Address:
+   - The domain "appl3-support.com" is a spoof of the official Apple domain.
+   - The "3" in "appl3" is used to trick users into thinking it’s legitimate.
+
+2. Email Header Analysis:
+   - SPF check failed.
+   - The "Reply-To" address differs from the sender's address.
+   - Headers show it was sent from a suspicious IP not linked to Apple.
+
+3. Suspicious Links:
+   - Displayed link: https://appleid.apple.com/verify
+   - Actual link (hovered): http://verify.apple.secure-login-support.ru
+   - Domain mismatch and suspicious TLD (.ru).
+
+4. Attachments:
+   - A .zip file named "Account_Statement.zip" was attached.
+   - Likely contains malware or a phishing form.
+
+5. Language/Tone:
+   - Contains urgency and fear-based statements: 
+     “Your account has been compromised. If you do not act within 24 hours, it will be permanently locked.”
+
+6. Mismatched URLs:
+   - Link display and actual destination are different.
+
+7. Spelling/Grammar Errors:
+   - “Please verfy your informations to regain acces.”
+   - Multiple grammar issues, indicative of phishing.
+
+8. Summary:
+   - This email exhibits classic phishing traits including domain spoofing, misleading links, poor grammar, urgent tone, and suspicious attachments.
+   - Users must avoid clicking links or downloading files from such emails.
+
+Outcome:
+---------
+This exercise increases awareness of phishing techniques and teaches email threat analysis.
+

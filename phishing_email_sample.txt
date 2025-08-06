@@ -1,0 +1,18 @@
+From: security-alert@appl3-support.com  
+To: user@example.com  
+Subject: Urgent: Your Account Has Been Locked!
+
+Dear Customer,
+
+We have detected suspicious activity in your Apple account.  
+For your security, your account has been temporarily locked.
+
+Please verify your informations to regain acces:  
+https://appleid.apple.com/verify
+
+Failure to act within 24 hours will result in permanent suspension.
+
+Sincerely,  
+Apple Security Team
+
+[Attachment: Account_Statement.zip]
